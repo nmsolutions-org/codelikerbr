@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codelikerbr
 - 👀 I’m interested in network monitoring systems for internet
 - 🌱 I’m currently studying telecomunication engeneering
-- 💞️ I’m looking to collaborate on creating templates for zabbix and other network monitoring tools
+- 💞️ I’m looking to collaborate on creating tools for network monitoring
 - 📫 How to reach me? E-mail: michaeldrezende@gmail.com
 
 <!---
